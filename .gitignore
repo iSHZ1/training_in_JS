@@ -93,6 +93,9 @@ StyleCopReport.xml
 *.svclog
 *.scc
 
+# MacOS git ignore
+*.DS_Store
+
 # Chutzpah Test files
 _Chutzpah*
 
